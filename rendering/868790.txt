@@ -1,0 +1,20 @@
+1. INIZIO
+Creare un box con 7 loop orizzontali e verticali. Estrudere 4 di essi come in figura. 
+2. REALIZZAZIONE OGGETTO
+Dal punto precedente procedere eseguendo uno SCALE per ogni fascia di loop, come in figura si dovrà guardare il raster della forchetta al di sotto per seguirne la geometria.
+3. DENTI
+Per poter dare una forma più consona ai denti della forchetta, inserire altri loop da cui poi poter modificare i denti per dare una forma a punta.
+Seguendo la forma della forchetta dare la forma ai denti, tenendo presente di fare terminare con una punta l'oggetto. Per eseguire questo utilizzare il comando SCALE e MOVE.
+4. FORMATURA
+L'oggetto sarà piatto, dunque si dovrà dare una curvatura attraverso il comando MOVE. Per dare una forma verosimile seguire l'immagine raster.
+5. MANICO
+Modellare la fine del manico dando un aspetto tondeggiante, non preoccuparsi della perfetta realizzazione perchè attraverso il turbosmooth si otterrà la forma corretta.
+6. LOOP
+Inserire dei loop che possano mantenere la forma coerente dell'oggetto e non rovinarlo con l'applicazione del TURBOSMOOTH.
+7. TURBOSMOOTH
+Applicare il modificatore e verificare se venga la forma corretta.
+8. MANICO PLASTICA
+L'oggetto è rivestito da un manico in plastica. Per realizzarlo creare un cilindro ad 8 lati, tenerne solo una metà e lavorare su quella.
+Ruotarlo della stessa inclinazione data al manico in ferro della forchetta ed appoggiarlo. Attraverso il comando SCALE adattarlo alla forma corretta.
+Specchiare dunque il manico in plastica ed applicarlo alla parte sotto del manico in ferro.
+9.FINE
